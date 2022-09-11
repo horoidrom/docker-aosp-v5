@@ -10,6 +10,8 @@ MAINTAINER tedwang.tw@gmail.com
 #
 # Java 7
 RUN apt-get install -y openjdk-7-jdk && apt-get clean
+RUN apt-get install wget
+RUN apt-get install iib32z1
 
 #
 # user account
