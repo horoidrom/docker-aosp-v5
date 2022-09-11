@@ -5,7 +5,7 @@ FROM tedwang/aosp-base14:latest
 
 MAINTAINER tedwang.tw@gmail.com
 
-#
+
 # AOSP requirement depends on android versions
 #
 # Java 7
